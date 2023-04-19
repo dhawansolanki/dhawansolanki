@@ -98,11 +98,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dhawansolanki&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=042398sfpkont9ajnfoz18gzh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dhawansolanki&&style=flat-square" align="center" />
 </div>  
@@ -113,5 +108,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
