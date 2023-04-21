@@ -93,9 +93,12 @@
 
 
 ## Github Stats  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dhawansolanki)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=dhawansolanki&show_icons=true&count_private=true&hide_border=true" align="center" />
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhawansolanki&hide_border=true&layout=compact" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dhawansolanki&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"></div>  
 
 <br/>  
 <div align="center">
