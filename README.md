@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dhawan Solanki, a Passionate Full-Stack Developer 👨‍💻</div>  
   
 
-- 🔭 Developer  [@Bigbuddy.in](https://www.bigbuddy.in)  
+- 🔭 Building  [@Bigbuddy.in](https://www.bigbuddyai.com)  
   
 
 - 🌱 2nd Yr Undergraduate at BMS College of Engineering, Bangalore  
