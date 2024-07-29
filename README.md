@@ -92,20 +92,41 @@
 <br/>  
 
 
-## Github Stats  
+ <div>
+	 <div><p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</p></div>
+ <p align="center">
+	 
+ <img src = "https://github-readme-activity-graph.vercel.app/graph?username=dhawansolanki&theme=merko"/>
+ <a href="https://github.com/dhawansolanki/github-readme-stats"><img alt="Dhawan Solanki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhawansolanki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href="https://github.com/dhawansolanki/github-readme-stats"><img alt="Dhawan Solanki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhawansolanki&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href = 'https://quine.sh?utm_source=widgets&utm_campaign=dhawansolanki'><img src = "https://stats.quine.sh/dhawansolanki/dependencies?theme=dark"/>
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dhawansolanki)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=dhawansolanki&show_icons=true&count_private=true&hide_border=true" align="center" />
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhawansolanki&hide_border=true&layout=compact" align="center" /></div>  
+<img src = "https://github-contributor-stats.vercel.app/api?username=dhawansolanki&limit=10&theme=radical&combine_all_yearly_contributions=true"/>
+ </p>
+ 
+ <p align='center'>
+<img src="https://api.vaunt.dev/v1/github/entities/dhawansolanki/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+</p>
+ <p align='center'>
+ <img src="https://stats.quine.sh/dhawansolanki/languages-over-time?theme=dark" height=300px width=350px>
+ <img src="https://stats.quine.sh/dhawansolanki/topics-over-time?theme=dark" height=300px width=400px>
+  </p>
+ </div>
 
-<div align="center"></div>  
-
-<br/>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dhawansolanki&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
+ <div>
+<div><p><img 
+ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="50px" height="50px"> Streak Stats</p></div>
+<p align="center">
+  <p align="center">
+    <a href="https://github.com/dhawansolanki/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhawansolanki&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+<!-- 	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhawansolanki&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a> -->
+    </a>
+  </p>
+  <p align='center'>
+<!--  <img src="https://stats.quine.sh/dhawansolanki/web3?theme=dark" height=350px width=400px> -->
+ <img src = "https://stats.quine.sh/dhawansolanki/github?theme=dark" height=350px width=300px>
+ <p>
+</p>
+</div>
