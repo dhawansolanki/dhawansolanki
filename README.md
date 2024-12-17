@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+
+
   
 
 ### <div align="center">I'm Dhawan Solanki, a Passionate Full-Stack Developer 👨‍💻</div>  
@@ -8,6 +10,10 @@
 
 - 🔭 Building  [@Magicroll.ai](https://magicroll.ai)  
   
+<a href="https://magicroll.ai" target="_blank">
+  <img src="https://github.com/user-attachments/assets/8543b356-efbb-4741-b571-048ca4bceef7" alt="MagicrollAI Linkedin Cover" />
+</a>
+
 
 - 🌱 Final Year at BMS College of Engineering, Bangalore  
   
