@@ -12,11 +12,7 @@
   
 <a href="https://magicroll.ai" target="_blank">
   <img src="https://github.com/user-attachments/assets/8543b356-efbb-4741-b571-048ca4bceef7" alt="MagicrollAI Linkedin Cover" />
-</a>
-
-
-- 🌱 Final Year at BMS College of Engineering, Bangalore  
-  
+</a>  
 
 - ⚡ Fun fact: I use tabs over spaces  
   
@@ -114,25 +110,6 @@
  <p align='center'>
 <img src="https://api.vaunt.dev/v1/github/entities/dhawansolanki/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
 </p>
- <p align='center'>
- <img src="https://stats.quine.sh/dhawansolanki/languages-over-time?theme=dark" height=300px width=350px>
- <img src="https://stats.quine.sh/dhawansolanki/topics-over-time?theme=dark" height=300px width=400px>
-  </p>
  </div>
-
  <div>
-<div><p><img 
- src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="50px" height="50px"> Streak Stats</p></div>
-<p align="center">
-  <p align="center">
-    <a href="https://github.com/dhawansolanki/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhawansolanki&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
-<!-- 	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhawansolanki&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a> -->
-    </a>
-  </p>
-  <p align='center'>
-<!--  <img src="https://stats.quine.sh/dhawansolanki/web3?theme=dark" height=350px width=400px> -->
- <img src = "https://stats.quine.sh/dhawansolanki/github?theme=dark" height=350px width=300px>
- <p>
-</p>
 </div>
