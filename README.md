@@ -33,7 +33,11 @@
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -48,6 +52,11 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -61,6 +70,13 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+
+
 </div>
 
 </td></tr></table>  
@@ -73,7 +89,7 @@
 <a href="https://github.com/dhawansolanki" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/_dhawansolanki" target="_blank">
+<a href="https://twitter.com/dhawansolanki_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/dhawansolanki" target="_blank">
@@ -96,20 +112,24 @@
 
  <div>
 	 <div><p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</p></div>
+
  <p align="center">
-	 
- <img src = "https://github-readme-activity-graph.vercel.app/graph?username=dhawansolanki&theme=merko"/>
+	 <div style="display: flex; justify-content: space-between;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dhawansolanki&theme=date_night&hide_border=false" width="49%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="49%" />
+</div>
+
+ 
+ <img src = "https://github-contributor-stats.vercel.app/api?username=dhawansolanki&limit=10&theme=radical&combine_all_yearly_contributions=true"/>
+ <img src="https://api.vaunt.dev/v1/github/entities/dhawansolanki/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
  <a href="https://github.com/dhawansolanki/github-readme-stats"><img alt="Dhawan Solanki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhawansolanki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
   <a href="https://github.com/dhawansolanki/github-readme-stats"><img alt="Dhawan Solanki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhawansolanki&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href = 'https://quine.sh?utm_source=widgets&utm_campaign=dhawansolanki'><img src = "https://stats.quine.sh/dhawansolanki/dependencies?theme=dark"/>
 </a>
 
-<img src = "https://github-contributor-stats.vercel.app/api?username=dhawansolanki&limit=10&theme=radical&combine_all_yearly_contributions=true"/>
+<img src = "https://github-readme-activity-graph.vercel.app/graph?username=dhawansolanki&theme=merko"/>
+
  </p>
- 
- <p align='center'>
-<img src="https://api.vaunt.dev/v1/github/entities/dhawansolanki/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
-</p>
+
  </div>
  <div>
 </div>
