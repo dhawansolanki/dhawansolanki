@@ -1,135 +1,118 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
+# Hi there, I'm Dhawan Solanki 👋
 
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Founding+Engineer+%26+Full-Stack+Architect;Building+%40Magicroll.ai+(AI+Video+Engine);Distributed+Systems+%7C+K8s+%7C+Multi-Agent+AI;From+0%E2%86%921+Product+Architecture+to+Scale)](https://git.io/typing-svg)
 
-### <div align="center">I'm Dhawan Solanki, a Passionate Full-Stack Developer 👨‍💻</div>  
-  
+<br/>
 
-- 🔭 Building  [@Magicroll.ai](https://magicroll.ai)  
-  
 <a href="https://magicroll.ai" target="_blank">
-  <img src="https://github.com/user-attachments/assets/8543b356-efbb-4741-b571-048ca4bceef7" alt="MagicrollAI Linkedin Cover" />
-</a>  
+  <img src="https://github.com/user-attachments/assets/8543b356-efbb-4741-b571-048ca4bceef7" alt="MagicrollAI Banner" width="100%" />
+</a>
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+<br/><br/>
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhawansolanki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhawansolanki)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dhawansolanki_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_dhawansolanki)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/dhawansolanki)
 
 </div>
 
-</td><td valign="top" width="33%">
+---
 
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
+### 🚀 About Me & Founding Engineer Mindset
 
-</div>
+I am a **Founding Engineer & Full-Stack Systems Architect** who thrives in 0→1 ambiguity and scales platforms into battle-tested production environments. Currently driving core engineering at **[Magicroll.ai](https://magicroll.ai)**, architecting end-to-end generative AI video pipelines, high-throughput media render engines, and autonomous multi-agent workflows.
 
-</td><td valign="top" width="33%">
+- 🔭 **Current Focus**: Next-generation Generative Video Architecture, Diffusion models, and distributed video rendering pipelines.
+- 🏗️ **Core Craft**: High-concurrency distributed backends, real-time WebSocket orchestration, asynchronous task queues, microservices, and multi-tenant architectures.
+- 🤖 **AI & Agents**: Fine-tuning & inference optimization (PyTorch, ComfyUI, Diffusers, LoRA), MCP (Model Context Protocol), and autonomous multi-agent swarms ([TinyClaw](https://github.com/dhawansolanki/tinyclaw)).
+- ☁️ **Infrastructure & DevOps**: Production Kubernetes (EKS & GKE), Terraform IaC, Docker, Redis caching, GPU instance autoscaling, and automated CI/CD.
+- ⚡ **Philosophy**: *Ship fast, measure everything, build resilient fault-tolerant systems, and maintain obsessive attention to UX.*
 
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+---
 
+### 🛠️ Core Competencies & Tech Stack
 
-</div>
+#### 🧠 AI, Media Generation & Video Tech
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,python,fastapi,flask&perline=10" alt="AI & ML Frameworks" />
+  </a>
+</p>
+<sub>Generative Video (Veo / Hunyuan / Wan / CogVideoX), LoRA fine-tuning, ComfyUI pipelines, Remotion programmatic video rendering, ReVideo, FFmpeg audio/video processing, Whisper, ElevenLabs voice cloning.</sub>
 
-</td></tr></table>  
+<br/><br/>
 
-<br/>  
+#### 💻 Distributed Backend & Microservices
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,express,fastapi,graphql,workers&perline=10" alt="Backend" />
+  </a>
+</p>
+<sub>Asynchronous Worker queues (Celery, BullMQ), WebSockets & real-time streaming, Distributed Lock management, RESTful & GraphQL APIs, microservices decomposition.</sub>
 
+<br/><br/>
 
-## Connect with me  
+#### 🗄️ Databases & Storage
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase&perline=10" alt="Databases" />
+  </a>
+</p>
+<sub>PostgreSQL (pgvector, complex migrations, indexing), Redis (pub/sub, caching, rate-limiting), Supabase, MongoDB, Cloud Object Storage (S3, GCS).</sub>
+
+<br/><br/>
+
+#### ☁️ Cloud, DevOps & Production Infrastructure
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,terraform,linux,nginx,githubactions,git&perline=10" alt="DevOps & Cloud" />
+  </a>
+</p>
+<sub>Kubernetes (GKE/EKS cluster administration, ingress controllers, HPA, GPU scheduling), Terraform, Docker containerization, Caddy/Nginx reverse proxying, Cloudflare, GitHub Actions CI/CD.</sub>
+
+<br/><br/>
+
+#### 🎨 Modern Frontend & Client Architecture
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,bootstrap,html,css&perline=10" alt="Frontend" />
+  </a>
+</p>
+<sub>State management (Redux Toolkit, Zustand), responsive design, interactive video timeline editors, canvas rendering.</sub>
+
+---
+
+### ⚡ What I Build & Architecture Highlights
+
+| Project / Domain | Architecture & Technologies | Impact / Role |
+| :--- | :--- | :--- |
+| **[Magicroll.ai](https://magicroll.ai)** | Python, TypeScript, PyTorch, Kubernetes, FastAPI, Redis, Remotion | **Founding Engineer**: Scaled generative AI video platform, automated video rendering pipeline, enterprise multi-agent workflows. |
+| **[TinyClaw](https://github.com/dhawansolanki/tinyclaw)** | TypeScript, Agentic Workflows, MCP | Team of autonomous collaborative agents working synchronously across tools and codebases. |
+| **High-Scale Media Pipelines** | FFmpeg, Docker, GPU Clusters, Celery / BullMQ, S3/GCS | Low-latency audio-video processing engine capable of concurrent multi-resolution exports. |
+| **Cloud Infrastructure (IaC)** | GKE, AWS EKS, Terraform, Nginx, Caddy, Cloudflare | Built automated multi-environment staging & production clusters with zero-downtime rolling updates. |
+
+---
+
+### 📊 GitHub Activity & Insights
+
 <div align="center">
-<a href="https://github.com/dhawansolanki" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/dhawansolanki_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/dhawansolanki" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/dhawansolanki2" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_dhawansolanki" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/dhawansolanki" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
- <div>
-	 <div><p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</p></div>
-
- <p align="center">
-	 <div style="display: flex; justify-content: space-between;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dhawansolanki&theme=date_night&hide_border=false" width="49%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhawansolanki&theme=tokyonight" alt="GitHub Profile Summary" width="95%" />
 </div>
 
- 
- <img src = "https://github-contributor-stats.vercel.app/api?username=dhawansolanki&limit=10&theme=radical&combine_all_yearly_contributions=true"/>
- <img src="https://api.vaunt.dev/v1/github/entities/dhawansolanki/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
- <a href="https://github.com/dhawansolanki/github-readme-stats"><img alt="Dhawan Solanki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhawansolanki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href="https://github.com/dhawansolanki/github-readme-stats"><img alt="Dhawan Solanki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhawansolanki&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
-</a>
+<br/>
 
-<img src = "https://github-readme-activity-graph.vercel.app/graph?username=dhawansolanki&theme=merko"/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="85%" />
+</div>
 
- </p>
+<br/>
 
- </div>
- <div>
+---
+
+<div align="center">
+  <sub>⚡ <b>Dhawan Solanki</b> &bull; Founding Engineer &bull; Always shipping, breaking boundaries, and scaling resilient products.</sub>
 </div>
